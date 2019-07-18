@@ -1,7 +1,7 @@
 # DrumKit
 
-A basic JavaScript drum kit 
-Based on Lesson 01 from the "JavaScript 30" course by Wes Bos.
+A basic JavaScript drum kit <br>
+Based on Lesson 01 from the <em>JavaScript 30</em> course by Wes Bos.<br>
 https://javascript30.com/
 
 Focus on:
