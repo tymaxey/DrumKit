@@ -7,5 +7,5 @@ https://javascript30.com/
 Focus on:
 - key events
 - playing audio
-- listening for transitionend event
+- listening for 'transitionend' event
 
