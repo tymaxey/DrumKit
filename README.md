@@ -9,4 +9,4 @@ Focus on:
 - playing audio
 - listening for 'transitionend' event
 
-![UI](https://imgur.com/a/8o63rnq)
+![Screenshot](https://imgur.com/36GezI8)
