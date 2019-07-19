@@ -1,4 +1,5 @@
-# DrumKit
+# Drum Kit :drum:
+
 
 A basic JavaScript drum kit <br>
 
