@@ -2,7 +2,7 @@
 
 A basic JavaScript drum kit <br>
 
-![Screenshot](assets/drum-kit-screenshot)<br>
+![Screenshot](assets/drum-kit-screenshot.png)<br>
 
 Based on Lesson 01 from the <em>JavaScript 30</em> course by Wes Bos.<br>
 https://javascript30.com/
